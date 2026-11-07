@@ -1,5 +1,13 @@
-# ChopChop
+# ChopChop: free offline video editor for Windows
 
-Free, offline video editor: trim, crop, caption, voiceover, export any aspect ratio. No account, no watermark.
+A free CapCut alternative that runs offline. No account, no watermark, no upload.
 
-[Download for Windows](https://github.com/vincentzhang15/chopchop/releases/latest/download/ChopChop-win32-x64.zip)
+- Trim, crop and reorder clips on a timeline
+- Crop any clip to 9:16 for Reels, TikTok and Shorts, or 1:1, 16:9, any aspect ratio
+- Captions and voiceover
+- Opens iPhone HEVC footage
+- Layer overlays, greenscreen and audio, then export one MP4
+
+[Download for Windows](https://github.com/vincentzhang15/chopchop/releases/latest/download/ChopChop-win32-x64.zip) (no install: unzip and run)
+
+More: [wealthvision.cc/chopchop](https://wealthvision.cc/chopchop/)
